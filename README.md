@@ -1,5 +1,7 @@
 # Spotify Data Analysis
 
+by Kristen Beck
+
 A data visualization project focusing on sound feature analysis for the user's Spotify playlists. 
 Visualize trends in your own musical preferences and compare your top music with tracks on Spotify’s top playlists.
 
