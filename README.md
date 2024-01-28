@@ -5,7 +5,7 @@ by Kristen Beck
 A data visualization project focusing on sound feature analysis for the user's Spotify playlists. 
 Visualize trends in your own musical preferences and compare your top music with tracks on Spotify’s top playlists.
 
-![app screenshoot](https://github.com/kristenvonbecker/spotify_data_analysis/blob/main/screenshot.png?raw=true)
+![app screenshoot](https://github.com/kristenvonbecker/spotify_data_analysis/blob/main/screenshot.png)
 
 This project has two parts, each one found in its on Jupyter notebook. 
 
